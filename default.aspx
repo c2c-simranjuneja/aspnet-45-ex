@@ -32,7 +32,7 @@
 <body>
     <section class="container">
         <hgroup>
-            <h1>Welcome to .NET Apllication on OpenShift</h1>
+            <h1>Welcome to .NET Apllication on OpenShift 4.0</h1>
         </hgroup>
 
 
